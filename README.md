@@ -1,7 +1,8 @@
 # kingberQ
 
-Senior Java backend engineer working on AI automation, security-sensitive systems,
-and high-throughput backend tooling.
+AI automation engineer and senior backend developer building agent tooling,
+LLM evaluation systems, code-review automation, and security-aware backend
+infrastructure.
 
 Most of my production Java work is proprietary company code, so this profile does
 not expose those repositories. Public projects here are sanitized side projects
@@ -10,10 +11,10 @@ cryptography-adjacent systems, and reliability work.
 
 ## What I Work On
 
+- AI automation: agent tool routing, LLM workflow integration, prompt/version
+  control, eval harnesses, code review automation, and internal assistants.
 - Java backend systems: Spring Boot, microservices, data pipelines, distributed
   jobs, performance tuning, reliability, and production debugging.
-- AI engineering: LLM workflow integration, agent tooling, code review
-  automation, internal assistants, and developer productivity systems.
 - Security-aware tooling: read-only blockchain analytics, token/liquidity risk
   checks, private-key-safe automation, and operational guardrails.
 - Systems automation: Rust/Python services, GPU/CUDA experiments, monitoring,
@@ -36,6 +37,15 @@ level without sharing private source code.
 
 ## Public Repositories To Start With
 
+- [ai-code-review-sentinel](https://github.com/kingberQ/ai-code-review-sentinel)
+  - AI-first code review guardrail with deterministic risk scanning and optional
+  OpenAI-compatible review.
+- [llm-eval-harness](https://github.com/kingberQ/llm-eval-harness)
+  - dependency-free Python harness for prompt, output, and safety regression
+  tests.
+- [ai-agent-tool-router](https://github.com/kingberQ/ai-agent-tool-router)
+  - safe agent tool router with allowlists, argument validation, dry-run mode,
+  and audit logs.
 - [java-ai-backend-playbook](https://github.com/kingberQ/java-ai-backend-playbook)
   - non-confidential Java backend, AI integration, and remote delivery notes.
 - [readonly-token-risk-detector](https://github.com/kingberQ/readonly-token-risk-detector)
