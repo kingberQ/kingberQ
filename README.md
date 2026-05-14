@@ -27,6 +27,13 @@ cryptography-adjacent systems, and reliability work.
 Java, Spring Boot, PostgreSQL, Redis, Kafka, Docker, Linux, Rust, Python,
 TypeScript, Node.js, Solidity, EVM tooling, OpenAI/Claude APIs, CI/CD, observability.
 
+## Visual Assets
+
+- [Download all profile assets](./downloads/kingberq-visual-assets.zip)
+- [Avatar PNG](./assets/avatar-mark.png) / [Avatar SVG](./assets/avatar-mark.svg)
+- [Profile banner PNG](./assets/profile-banner.png) / [Profile banner SVG](./assets/profile-banner.svg)
+- [Social card PNG](./assets/social-card.png) / [Social card SVG](./assets/social-card.svg)
+
 ## Public Code Note
 
 My public GitHub is intentionally not a mirror of my commercial Java work. When
