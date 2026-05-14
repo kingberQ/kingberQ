@@ -1,4 +1,6 @@
-# kingberQ
+![Kingber Q - AI Automation Engineer](./assets/profile-banner.svg)
+
+# Kingber Q
 
 AI automation engineer and senior backend developer building agent tooling,
 LLM evaluation systems, code-review automation, and security-aware backend
@@ -36,6 +38,8 @@ I can discuss proprietary Java experience at the architecture and implementation
 level without sharing private source code.
 
 ## Public Repositories To Start With
+
+<img align="right" width="128" height="128" src="./assets/avatar-mark.svg" alt="Kingber Q monogram" />
 
 - [ai-code-review-sentinel](https://github.com/kingberQ/ai-code-review-sentinel)
   - AI-first code review guardrail with deterministic risk scanning and optional

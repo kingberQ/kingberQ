@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kingber Q avatar mark</title>
+  <desc id="desc">A geometric KQ monogram for AI automation and backend engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="48" y1="40" x2="456" y2="470" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#071013"/>
+      <stop offset="0.55" stop-color="#10252A"/>
+      <stop offset="1" stop-color="#17210E"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="111" y1="98" x2="401" y2="414" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.58" stop-color="#84CC16"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#bg)"/>
+  <rect x="42" y="42" width="428" height="428" rx="96" stroke="url(#stroke)" stroke-width="16"/>
+  <path d="M151 344V168" stroke="#F8FAFC" stroke-width="34" stroke-linecap="round"/>
+  <path d="M151 262L279 168" stroke="#22D3EE" stroke-width="34" stroke-linecap="round"/>
+  <path d="M190 246L296 344" stroke="#84CC16" stroke-width="34" stroke-linecap="round"/>
+  <path d="M318 184C379 184 419 229 419 286C419 344 377 382 318 382C260 382 219 342 219 286C219 230 260 184 318 184Z" stroke="#F59E0B" stroke-width="28"/>
+  <path d="M356 344L421 405" stroke="#F8FAFC" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="151" cy="168" r="10" fill="#22D3EE"/>
+  <circle cx="296" cy="344" r="10" fill="#84CC16"/>
+</svg>

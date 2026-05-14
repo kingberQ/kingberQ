@@ -1,0 +1,49 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kingber Q social preview</title>
+  <desc id="desc">Social preview card for AI automation, LLM evaluation, code-review automation, and backend engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#071013"/>
+      <stop offset="0.48" stop-color="#10252A"/>
+      <stop offset="1" stop-color="#18220F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="100" y1="130" x2="1080" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.55" stop-color="#84CC16"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M0 457C159 385 313 421 458 332C614 237 759 146 925 235C1037 295 1097 323 1200 272V630H0V457Z" fill="#0B171A" opacity="0.78"/>
+  <rect x="72" y="72" width="1056" height="486" rx="44" stroke="url(#accent)" stroke-width="3" opacity="0.92"/>
+  <path d="M120 418H1080" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <path d="M120 278H1080" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <path d="M256 112V518" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <path d="M486 112V518" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <path d="M716 112V518" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <path d="M946 112V518" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <path d="M122 385C236 327 334 361 442 292C556 219 641 167 758 217C858 260 918 332 1078 268" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" opacity="0.72"/>
+
+  <rect x="116" y="132" width="132" height="132" rx="32" fill="#0D1B1E" stroke="url(#accent)" stroke-width="3"/>
+  <path d="M156 215V162" stroke="#F8FAFC" stroke-width="16" stroke-linecap="round"/>
+  <path d="M156 191L205 162" stroke="#22D3EE" stroke-width="16" stroke-linecap="round"/>
+  <path d="M177 189L220 224" stroke="#84CC16" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="217" cy="198" r="31" stroke="#F59E0B" stroke-width="12"/>
+  <path d="M237 220L257 239" stroke="#F8FAFC" stroke-width="12" stroke-linecap="round"/>
+
+  <text x="288" y="176" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="66" font-weight="780" letter-spacing="0">Kingber Q</text>
+  <text x="292" y="232" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="650" letter-spacing="0">AI automation engineer · senior backend developer</text>
+  <text x="120" y="334" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="520" letter-spacing="0">Agent tooling · LLM evals · Code-review automation</text>
+  <text x="120" y="382" fill="#D1D5DB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="460" letter-spacing="0">Java backend · Security-aware systems · Remote async delivery</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+    <rect x="120" y="448" width="148" height="46" rx="23" fill="#0F2B32" stroke="#22D3EE"/>
+    <text x="153" y="478" fill="#E0F2FE">AI Agents</text>
+    <rect x="292" y="448" width="128" height="46" rx="23" fill="#1E2B13" stroke="#84CC16"/>
+    <text x="330" y="478" fill="#ECFCCB">Evals</text>
+    <rect x="444" y="448" width="180" height="46" rx="23" fill="#111827" stroke="#A3A3A3"/>
+    <text x="477" y="478" fill="#F5F5F5">Code Review</text>
+    <rect x="648" y="448" width="150" height="46" rx="23" fill="#2D210B" stroke="#F59E0B"/>
+    <text x="684" y="478" fill="#FEF3C7">Backend</text>
+  </g>
+</svg>
