@@ -2,69 +2,38 @@
 
 # Kingber Q
 
-AI automation engineer and senior backend developer building agent tooling,
-LLM evaluation systems, code-review automation, and security-aware backend
-infrastructure.
+AI automation engineer and senior Java backend developer building LLM agents, evaluation harnesses, code-review automation, and production-friendly backend integrations.
 
-Most of my production Java work is proprietary company code, so this profile does
-not expose those repositories. Public projects here are sanitized side projects
-and engineering tools that show how I approach automation, infrastructure,
-cryptography-adjacent systems, and reliability work.
+Based in China (UTC+8). Open to async remote contract projects where a practical engineer needs to turn ambiguous AI automation ideas into working software.
 
-## What I Work On
+[LinkedIn](https://www.linkedin.com/in/kingberq/) · [GitHub](https://github.com/kingberQ)
 
-- AI automation: agent tool routing, LLM workflow integration, prompt/version
-  control, eval harnesses, code review automation, and internal assistants.
-- Java backend systems: Spring Boot, microservices, data pipelines, distributed
-  jobs, performance tuning, reliability, and production debugging.
-- Security-aware tooling: read-only blockchain analytics, token/liquidity risk
-  checks, private-key-safe automation, and operational guardrails.
-- Systems automation: Rust/Python services, GPU/CUDA experiments, monitoring,
-  background workers, and deployment scripts.
+## What I Can Build
 
-## Stack
+- LLM agents and workflow automation with guarded tool use, allowlists, validation, dry-run mode, and audit logs.
+- RAG-style assistants and prompt pipelines connected to existing APIs, databases, queues, and internal tools.
+- LLM evaluation harnesses and regression checks for prompts, outputs, safety rules, and release confidence.
+- AI code-review automation, deterministic risk scanning, CI checks, and engineering quality gates.
+- Java/Spring Boot backend services that turn AI prototypes into maintainable production features.
 
-Java, Spring Boot, PostgreSQL, Redis, Kafka, Docker, Linux, Rust, Python,
-TypeScript, Node.js, Solidity, EVM tooling, OpenAI/Claude APIs, CI/CD, observability.
+## Selected Public Work
 
-## Visual Assets
+| Project | What it shows |
+| --- | --- |
+| [ai-agent-tool-router](https://github.com/kingberQ/ai-agent-tool-router) | Safe tool routing for LLM agents: allowlists, argument validation, dry-run mode, and audit logs before tools run. |
+| [llm-eval-harness](https://github.com/kingberQ/llm-eval-harness) | Lightweight prompt/output evaluation so AI behavior can be compared and regression-tested before release. |
+| [ai-code-review-sentinel](https://github.com/kingberQ/ai-code-review-sentinel) | AI-first code review guardrails with deterministic risk scanning and optional LLM review. |
+| [java-ai-backend-playbook](https://github.com/kingberQ/java-ai-backend-playbook) | Non-confidential Java backend, AI integration, and remote delivery notes. |
+| [readonly-token-risk-detector](https://github.com/kingberQ/readonly-token-risk-detector) | Read-only Ethereum liquidity and exit-path risk detector. No private keys, approvals, or transactions. |
 
-- [Download all profile assets](./downloads/kingberq-visual-assets.zip)
-- [Avatar PNG](./assets/avatar-mark.png) / [Avatar SVG](./assets/avatar-mark.svg)
-- [Profile banner PNG](./assets/profile-banner.png) / [Profile banner SVG](./assets/profile-banner.svg)
-- [Social card PNG](./assets/social-card.png) / [Social card SVG](./assets/social-card.svg)
+## Tech Stack
+
+Java, Spring Boot, PostgreSQL, Redis, Kafka, Docker, Linux, Python, TypeScript, Node.js, OpenAI-compatible APIs, CI/CD, observability, and backend automation tooling.
 
 ## Public Code Note
 
-My public GitHub is intentionally not a mirror of my commercial Java work. When
-evaluating me for Java/backend roles, treat this profile as evidence of breadth,
-automation ability, and engineering taste rather than a full archive of company
-code.
-
-I can discuss proprietary Java experience at the architecture and implementation
-level without sharing private source code.
-
-## Public Repositories To Start With
-
-<img align="right" width="128" height="128" src="./assets/avatar-mark.svg" alt="Kingber Q monogram" />
-
-- [ai-code-review-sentinel](https://github.com/kingberQ/ai-code-review-sentinel)
-  - AI-first code review guardrail with deterministic risk scanning and optional
-  OpenAI-compatible review.
-- [llm-eval-harness](https://github.com/kingberQ/llm-eval-harness)
-  - dependency-free Python harness for prompt, output, and safety regression
-  tests.
-- [ai-agent-tool-router](https://github.com/kingberQ/ai-agent-tool-router)
-  - safe agent tool router with allowlists, argument validation, dry-run mode,
-  and audit logs.
-- [java-ai-backend-playbook](https://github.com/kingberQ/java-ai-backend-playbook)
-  - non-confidential Java backend, AI integration, and remote delivery notes.
-- [readonly-token-risk-detector](https://github.com/kingberQ/readonly-token-risk-detector)
-  - read-only Ethereum liquidity and exit-path risk detector. No private keys,
-  no approvals, no transactions.
+Most of my production Java work is proprietary company code, so this profile is not a mirror of my commercial repositories. Public projects here are sanitized side projects and engineering tools that show how I approach automation, reliability, security-aware design, and AI integration.
 
 ## Work Style
 
-Based in China, UTC+8. Strong fit for async remote work, focused implementation
-sprints, backend rescue work, AI integration projects, and long-running technical
-maintenance contracts.
+Strong fit for startups, solo founders, and small engineering teams that need focused async implementation, backend rescue work, AI integration, evaluation tooling, or long-running technical maintenance.
