@@ -34,6 +34,14 @@ code.
 I can discuss proprietary Java experience at the architecture and implementation
 level without sharing private source code.
 
+## Public Repositories To Start With
+
+- [java-ai-backend-playbook](https://github.com/kingberQ/java-ai-backend-playbook)
+  - non-confidential Java backend, AI integration, and remote delivery notes.
+- [readonly-token-risk-detector](https://github.com/kingberQ/readonly-token-risk-detector)
+  - read-only Ethereum liquidity and exit-path risk detector. No private keys,
+  no approvals, no transactions.
+
 ## Work Style
 
 Based in China, UTC+8. Strong fit for async remote work, focused implementation
